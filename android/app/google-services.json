@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "36589914184",
+    "firebase_url": "https://mexiprod.firebaseio.com",
+    "project_id": "mexiprod",
+    "storage_bucket": "mexiprod.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36589914184:android:7641bc972745325bbe707d",
+        "android_client_info": {
+          "package_name": "upp.com.proyecto1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "36589914184-7fvjsj483hd71ufi0rtqah6t1gjm9lh8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "upp.com.proyecto1",
+            "certificate_hash": "993bd4588a702cdb883f930149dbce0864f7fd4d"
+          }
+        },
+        {
+          "client_id": "36589914184-6q30d89h3ujsom5pqlg4e2n4mthg8710.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWEVIrWcEt4y-OK9g6NHf2BbzN6Rm4SXk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "36589914184-6q30d89h3ujsom5pqlg4e2n4mthg8710.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
